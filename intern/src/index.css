@@ -1,0 +1,8 @@
+@import "/node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+main{
+  background-color:rgb(#498092e4);
+}
+.title style {
+      height:30% ;
+}
